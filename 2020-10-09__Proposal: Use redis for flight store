@@ -7,8 +7,6 @@ Decide to use redis with settings = xxx
 
 Consequence
 Consequence* Positive: more efficiency memory usage
-
-Positive: more efficiency memory usage
 Positive: more efficiency memory usage
 Negative: single threaded
 Negative: single threaded
