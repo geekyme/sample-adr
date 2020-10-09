@@ -1,1 +1,1 @@
-Decide to use redis with settings = xxx
+Decision Decide to use redis with settings = xxxConsequencePositive: more efficiency memory usageNegative: single threaded
