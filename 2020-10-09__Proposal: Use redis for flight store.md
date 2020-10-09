@@ -6,6 +6,5 @@
 * Another xxxxxxxx
 ### 
 ### Negative Consequence
-* single threaded
 
-Another one
+single threaded
