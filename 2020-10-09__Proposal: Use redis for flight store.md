@@ -1,10 +1,10 @@
 ### Decision 
-* Decide to use redis with settings = xxx
+* one
 ### 
 ### Positive Consequence
-* more efficiency memory usage
-* Another xxxxxxxx
+* Twoo
+* three
 ### 
 ### Negative Consequence
-* single threaded
-* Another 
+* Four
+* Five
