@@ -1,1 +1,14 @@
-Decision Decide to use redis with settings = xxxConsequencePositive: more efficiency memory usageNegative: single threaded
+
+Decision 
+Decision 
+Decide to use redis with settings = xxx
+Decide to use redis with settings = xxx
+
+
+Consequence
+Consequence* Positive: more efficiency memory usage
+
+Positive: more efficiency memory usage
+Positive: more efficiency memory usage
+Negative: single threaded
+Negative: single threaded
