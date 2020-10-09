@@ -1,1 +1,0 @@
-Decide to use redis with settings = xxx
